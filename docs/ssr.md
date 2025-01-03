@@ -1,3 +1,3 @@
 # How to use SSR
 
-[Example of using SSR with Next.js on Github](https://github.com/betula/use-between-ssr)
+[Example of using SSR with Next.js on Github](https://github.com/stigma-io/use-mono-ssr)
