@@ -1,6 +1,6 @@
 {
   "name": "use-mono",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "How to share React hooks state between components",
   "repository": {
     "url": "https://github.com/stigma-io/use-mono"
